@@ -1,17 +1,17 @@
-nav li{
+nav li {
     list-style: none;
     display: inline;
     margin-right: 15px;
 }
 
-nav li:hover{
+nav li:hover {
     background-color: aqua;
 }
 
-nav li a{
+nav li a {
     text-decoration: none;
 }
 
-footer{
+footer {
     text-align: center;
 }
